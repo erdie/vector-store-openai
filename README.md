@@ -13,4 +13,4 @@ node --env-file=.env index.cjs
 ```
 
 ### Document Source
-(https://badanbahasa.kemdikbud.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf)[https://badanbahasa.kemdikbud.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf]
+[https://badanbahasa.kemdikbud.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf](https://badanbahasa.kemdikbud.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf)
