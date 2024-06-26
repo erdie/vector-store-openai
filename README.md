@@ -1,4 +1,4 @@
-# Vector Store Open AI
+# Vector Store OpenAI
 An example code uses a vector store for the embedded model and GPT-4o OpenAI API
 
 I use the Indonesian EyD version 5 document for the knowledge base. EyD (Ejaan yang Disempurnakan) mean Improved Spelling for the Indonesian Language
